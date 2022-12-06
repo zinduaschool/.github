@@ -1,2 +1,1 @@
-# .github
-Zindua School Profile
+Zindua School is a part-time coding school based in Africa offering programs in Software Development and Data Science. Zindua is particularly known for its favourable financing options where students can defer 50% of the fees into an income-share agreement or get a 50% money-back guarantee if they do not get a job within 12 months of graduation.
